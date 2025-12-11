@@ -1,0 +1,6 @@
+Segment,Top_Product,Preferred_Channel,Discount_Sensitivity,Avg_Campaign_Response,Strategy
+Affluent Singles,Wines,Store,0.121,0.272,"Promote Wines via Store. Focus on value, not discounts. Monthly campaigns only."
+Budget-Conscious Families,Wines,Store,0.061,2.096,"Promote Wines via Store. Focus on value, not discounts. Weekly campaigns."
+High-Value Champions,Wines,Store,0.328,0.191,Promote Wines via Store. Offer 15-20% discount. Monthly campaigns only.
+Mature Loyalists,Wines,Store,0.264,0.218,Promote Wines via Store. Offer 5-10% discount. Monthly campaigns only.
+Price-Sensitive Shoppers,Wines,Catalog,12.5,0.0,Promote Wines via Catalog. Offer 15-20% discount. Monthly campaigns only.
