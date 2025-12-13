@@ -1,0 +1,10 @@
+artifact_location: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/models/m-11ebf6e465ca435fb3ada49d36216520/artifacts
+creation_timestamp: 1765573494295
+experiment_id: '0'
+last_updated_timestamp: 1765573500366
+model_id: m-11ebf6e465ca435fb3ada49d36216520
+model_type: null
+name: Gradient Boosting_best_model
+source_run_id: 351a3bb9f7274419a6343ca770d98253
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/5270622f83e9470bba5b657fedf23a99/artifacts
+end_time: 1765661411548
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5270622f83e9470bba5b657fedf23a99
+run_name: Logistic Regression_trial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765661411475
+status: 3
+tags: []
+user_id: philippevannson

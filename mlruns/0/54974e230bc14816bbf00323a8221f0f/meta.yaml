@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/54974e230bc14816bbf00323a8221f0f/artifacts
+end_time: 1765661505211
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54974e230bc14816bbf00323a8221f0f
+run_name: Random Forest_trial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765661504475
+status: 3
+tags: []
+user_id: philippevannson

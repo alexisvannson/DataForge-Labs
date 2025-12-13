@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/7d4d4431a18f446ea63d1d22d300d695/artifacts
+end_time: 1765661380295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d4d4431a18f446ea63d1d22d300d695
+run_name: Support Vector Machine_trial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765661379242
+status: 3
+tags: []
+user_id: philippevannson
