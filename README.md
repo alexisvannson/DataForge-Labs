@@ -14,7 +14,7 @@ jupyter notebook ClientInsights.ipynb
 
 ### Web Dashboard
 
-Launch the interactive ROILab dashboard:
+Launch the interactive DataForge-Labs dashboard(a proof of concept):
 
 ```bash
 cd ui
