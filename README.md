@@ -1,10 +1,6 @@
 # DataForge-Labs Customer Intelligence Platform
 
-A data-driven customer intelligence platform that leverages machine learning to optimize marketing ROI through customer segmentation, lifetime value analysis, and predictive campaign targeting.
-
-## Overview
-
-ROILab transforms raw customer data into actionable business insights by identifying distinct customer segments, predicting campaign response rates, calculating customer lifetime value (CLV), and monitoring churn risk. The platform enables data-driven marketing decisions that reduce costs while maintaining or improving conversion rates.
+A data-driven customer intelligence platform that leverages machine learning to optimize marketing ROI through predictive campaign targeting and churn prediction.
 
 ## Getting Started
 
