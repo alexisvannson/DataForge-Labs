@@ -1,0 +1,22 @@
+artifact_path: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/models/m-11ebf6e465ca435fb3ada49d36216520/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.5.1
+model_id: m-11ebf6e465ca435fb3ada49d36216520
+model_size_bytes: 136032
+model_uuid: m-11ebf6e465ca435fb3ada49d36216520
+prompts: null
+run_id: 351a3bb9f7274419a6343ca770d98253
+utc_time_created: '2025-12-12 21:04:54.344884'

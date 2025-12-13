@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/042baae4eb314d2b9e01776f2ecd6578/artifacts
+end_time: 1765573500512
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 042baae4eb314d2b9e01776f2ecd6578
+run_name: Ridge Classifier_trial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765573500467
+status: 3
+tags: []
+user_id: philippevannson

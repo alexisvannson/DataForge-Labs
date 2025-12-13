@@ -1,0 +1,10 @@
+artifact_location: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/models/m-9582e6ddc979410380a7b3e9ee14d735/artifacts
+creation_timestamp: 1765661602106
+experiment_id: '0'
+last_updated_timestamp: 1765661608174
+model_id: m-9582e6ddc979410380a7b3e9ee14d735
+model_type: null
+name: Gradient Boosting_production
+source_run_id: 85934398c91544e1b3422f072d578aea
+status: 2
+status_message: null

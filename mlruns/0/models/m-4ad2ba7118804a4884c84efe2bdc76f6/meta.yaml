@@ -1,0 +1,10 @@
+artifact_location: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/models/m-4ad2ba7118804a4884c84efe2bdc76f6/artifacts
+creation_timestamp: 1765661397555
+experiment_id: '0'
+last_updated_timestamp: 1765661410297
+model_id: m-4ad2ba7118804a4884c84efe2bdc76f6
+model_type: null
+name: Ridge Classifier_production
+source_run_id: bf72fdddd0f44379bc24f285ae6d6446
+status: 2
+status_message: null

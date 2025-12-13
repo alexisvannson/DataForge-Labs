@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/764d5888d01149e9ab0a4e8470aae2ff/artifacts
+end_time: 1765573506258
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 764d5888d01149e9ab0a4e8470aae2ff
+run_name: Naive Bayes
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765573506197
+status: 4
+tags: []
+user_id: philippevannson

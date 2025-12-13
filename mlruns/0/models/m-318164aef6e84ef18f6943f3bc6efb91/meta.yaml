@@ -1,0 +1,10 @@
+artifact_location: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/models/m-318164aef6e84ef18f6943f3bc6efb91/artifacts
+creation_timestamp: 1765661288125
+experiment_id: '0'
+last_updated_timestamp: 1765661294990
+model_id: m-318164aef6e84ef18f6943f3bc6efb91
+model_type: null
+name: Random Forest_best_model
+source_run_id: 918f078b20c94bf4a53ddc9ef1509d38
+status: 2
+status_message: null

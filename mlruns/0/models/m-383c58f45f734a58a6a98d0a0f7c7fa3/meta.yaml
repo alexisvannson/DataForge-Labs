@@ -1,0 +1,10 @@
+artifact_location: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/models/m-383c58f45f734a58a6a98d0a0f7c7fa3/artifacts
+creation_timestamp: 1765661367074
+experiment_id: '0'
+last_updated_timestamp: 1765661372945
+model_id: m-383c58f45f734a58a6a98d0a0f7c7fa3
+model_type: null
+name: Naive Bayes_best_model
+source_run_id: 09d707cf59204569a6f8752ff32bb55f
+status: 2
+status_message: null

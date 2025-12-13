@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/2aeb622c314f4e7fa5e8e425497412ec/artifacts
+end_time: 1765573506261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2aeb622c314f4e7fa5e8e425497412ec
+run_name: Model_Selection
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765573426235
+status: 4
+tags: []
+user_id: philippevannson

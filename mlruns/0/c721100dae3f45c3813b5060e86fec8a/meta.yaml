@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/c721100dae3f45c3813b5060e86fec8a/artifacts
+end_time: 1765573490564
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c721100dae3f45c3813b5060e86fec8a
+run_name: Gradient Boosting_trial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765573489020
+status: 3
+tags: []
+user_id: philippevannson

@@ -1,0 +1,10 @@
+artifact_location: file:///Users/philippevannson/Desktop/DataForge-Labs/mlruns/0/models/m-cd5c3fe4e42b4baabecfcaed1bbe56af/artifacts
+creation_timestamp: 1765661411643
+experiment_id: '0'
+last_updated_timestamp: 1765661417590
+model_id: m-cd5c3fe4e42b4baabecfcaed1bbe56af
+model_type: null
+name: Logistic Regression_best_model
+source_run_id: eebe1124203f47e4b8c55eae7aae6efc
+status: 2
+status_message: null
