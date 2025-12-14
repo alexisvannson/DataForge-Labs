@@ -41,6 +41,15 @@ Analysis based on the [Customer Personality Analysis dataset](https://www.kaggle
 - TailwindCSS
 - Recharts
 
+## User Interface
+
+### Campaign Response Rate Analysis
+
+![Campaign Response Rate](assets/response_rate.png)
+
+### Churn Risk Monitoring
+![Churn Risk Analysis](assets/churn.png)
+
 ## Authors
 
 **Millan Das, Arthur de Leusse & Alexis Vannson**
