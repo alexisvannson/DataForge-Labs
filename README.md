@@ -17,7 +17,7 @@ jupyter notebook ClientInsights.ipynb
 Launch the interactive DataForge-Labs dashboard(a proof of concept):
 
 ```bash
-cd ui
+cd app
 npm install
 npm run dev
 ```
