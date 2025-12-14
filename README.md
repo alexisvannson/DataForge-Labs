@@ -26,6 +26,15 @@ npm run dev
 
 Analysis based on the [Customer Personality Analysis dataset](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis) containing 2,240 customer records with demographics, purchase history, and campaign responses.
 
+## User Interface
+
+### Campaign Response Rate Analysis
+
+![Campaign Response Rate](assets/response_rate.png)
+
+### Churn Risk Monitoring
+![Churn Risk Analysis](assets/churn.png)
+
 ## Technical Stack
 
 **Analysis**
@@ -40,15 +49,6 @@ Analysis based on the [Customer Personality Analysis dataset](https://www.kaggle
 - shadcn/ui + Radix UI
 - TailwindCSS
 - Recharts
-
-## User Interface
-
-### Campaign Response Rate Analysis
-
-![Campaign Response Rate](assets/response_rate.png)
-
-### Churn Risk Monitoring
-![Churn Risk Analysis](assets/churn.png)
 
 ## Authors
 
